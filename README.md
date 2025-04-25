@@ -98,3 +98,5 @@ python code/ldm_finetune.py --pretrain_mbm_path your_phase2_ckpt_path \
 --kam_subs sbj_3 \
 --target_sub_train_proportion 1. 
 --lr 5.3e-5
+
+We used BOLD5000 dataset avaialble here  https://drive.google.com/drive/u/0/folders/1IBp2GfCmnPgNenOOzyJc-lwoXiZiJCY0
